@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm an IT Student at Montclair State University.
+This repository contains some of the projects I have worked on over the past few years.
 
 <!--
 **cruzmatt/cruzmatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
