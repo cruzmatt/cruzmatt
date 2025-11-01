@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Matt, an IT Student at Montclair State University. My repositories contain some of the projects I have worked on as a student.
+I'm Matt, an IT Student at Montclair State University. This portfolio contains some of the projects I have worked on as a student.
 
 
 <!--
